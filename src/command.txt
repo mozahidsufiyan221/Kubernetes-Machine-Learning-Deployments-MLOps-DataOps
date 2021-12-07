@@ -1,0 +1,2 @@
+docker-compose build python
+docker-compose up python   
